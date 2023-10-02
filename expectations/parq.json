@@ -1,0 +1,21 @@
+{
+  "data_asset_type": null,
+  "expectation_suite_name": "parq",
+  "expectations": [],
+  "ge_cloud_id": null,
+  "meta": {
+    "citations": [
+      {
+        "batch_request": {
+          "data_asset_name": "test.parquet",
+          "data_connector_name": "default_inferred_data_connector_name",
+          "datasource_name": "my_datasource_parquet",
+          "limit": 1000
+        },
+        "citation_date": "2023-09-22T04:52:51.483119Z",
+        "comment": "Created suite added via CLI"
+      }
+    ],
+    "great_expectations_version": "0.17.19"
+  }
+}
